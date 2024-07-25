@@ -47,7 +47,7 @@ class pokemon{
         $this->temFolhada = $fo;
         $this->temAfiarUnhas = $af;
         $this->temAtaqueRapido = $af;
-        $this->temPlanomalefico;
+        $this->temPlanomalefico = $pm;
     }
 }
 
